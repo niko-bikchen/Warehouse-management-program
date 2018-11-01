@@ -1,5 +1,5 @@
 # Warehouse-management-program
-This is warehouse management program which can read information about goods and groups of goods from files, edit it and than save modified data to files.
+This is a warehouse management program which can read information about goods and groups of goods from files, edit it and than save modified data to files.
 ## Implemented functions:
 1. Graphical user interface
 
@@ -23,11 +23,11 @@ Extensions for files so the program could read them - .txt
 In a file containing information about groups of goods, information about each group of goods should be separated by
 the symbol ",". Each line in this file should correspond to one group of goods.
  
-Example:
+### Example:
 Furniture (Name), Some furniture here(Description)
 Sweets, Some sweets here
  
 For the file containing indormation about goods the conditions are the same. It is necessary to add at the beginnig of the product description the name of group of goods it belongs to.
  
-Example:
+### Example:
 Sweets (Goods Group), Candy (Name), This is Candy (Description), Confectionery (Manufacturer Name), 15 (Quantity), 23.50 (Price).
