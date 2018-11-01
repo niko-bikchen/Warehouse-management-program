@@ -22,13 +22,19 @@ The program is divided into several windows. The windows in which the lists of g
 Extensions for files so the program could read them - .txt
 In a file containing information about groups of goods, information about each group of goods should be separated by
 the symbol ",". Each line in this file should correspond to one group of goods.
- 
+
+
 **Example:**
+
+
 Furniture (Name), Some furniture here(Description)
 Sweets, Some sweets here
  
  
 For the file containing indormation about goods the conditions are the same. It is necessary to add at the beginnig of the product description the name of group of goods it belongs to.
- 
+
+
 **Example:**
+
+
 Sweets (Goods Group), Candy (Name), This is Candy (Description), Confectionery (Manufacturer Name), 15 (Quantity), 23.50 (Price).
