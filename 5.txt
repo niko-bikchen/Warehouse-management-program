@@ -1,9 +1,0 @@
-Sweets, Candy, This is Candy, Candy Company, 15, 23.5
-Sweets, Ice Cream, This is Ice Cream, Morozev Company, 20, 25.6
-Drinks, Water, This is water, A low-water drink, 20, 10.5
-Drinks, Cola, This is a cola, A company that makes a stake, 30, 15.0
-Fish, Mackerel, This is Mackerel, Sea, 23, 34.67
-Fish, Trout, This is trout, Sea, 45, 56.56
-Meat, Pork, This is pork, Swinefarm, 23, 34.45
-Furniture, Chair, This is a chair, Furniture, 40, 45.45
-Furniture, Sofa, This is a sofa, Furniture, 15, 1234.56
