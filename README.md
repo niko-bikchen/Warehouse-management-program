@@ -1,5 +1,7 @@
 # Warehouse-management-program
 This is a warehouse management program which can read information about goods and groups of goods from files, edit it and than save modified data to files.
+## Program structure: 
+The program is divided into several windows. The windows in which the lists of groups of goods and goods of a certain group of goods are displated considered the main. Other windows (error windows, alerts, windows that are called for adding, editing, etc. goods / groups of goods, statistics windows, search windows, etc.) are considered as auxiliary.
 ## Implemented functions:
 1. Graphical user interface
 
@@ -16,8 +18,6 @@ This is a warehouse management program which can read information about goods an
 7. Implemented the search for a product.
 
 8. Output of statistical data: the output of all goods with information about them, the output of all goods in the group of goods with information about them, the total value of goods in the warehouse, the total value of goods in the group of goods.
-## Program structure: 
-The program is divided into several windows. The windows in which the lists of groups of goods and goods of a certain group of goods are displated considered the main. Other windows (error windows, alerts, windows that are called for adding, editing, etc. goods / groups of goods, statistics windows, search windows, etc.) are considered as auxiliary.
 ## Input files requirements: 
 Extensions for files so the program could read them - .txt
 In a file containing information about groups of goods, information about each group of goods should be separated by
