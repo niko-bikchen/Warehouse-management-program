@@ -38,3 +38,6 @@ For the file containing information about goods the conditions are the same. It 
 
 
 Sweets (Goods Group), Candy (Name), This is Candy (Description), Confectionery  (Manufacturer Name), 15 (Quantity), 23.50 (Price).
+## Developed by
+Nikolay Bikchentaev: Graphical user interface, reading/saving data from/to files.
+Nikolay Prijmich: Statistical methods, methods for searching the goods.
