@@ -28,8 +28,8 @@ the symbol ",". Each line in this file should correspond to one group of goods.
 
 
 Furniture (Name), Some furniture here(Description)
-Sweets, Some sweets here
- 
+
+
  
 For the file containing information about goods the conditions are the same. It is necessary to add at the beginning of the product description the name of group of goods it belongs to.
 
